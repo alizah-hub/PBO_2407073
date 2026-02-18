@@ -1,4 +1,5 @@
-package latihan_pbo;
+package latihan_pbo.latihan1;
+
 
 class Cafe{
     String nama;
