@@ -3,7 +3,7 @@ package tugas_pbo;
 import java.util.Scanner;
 
 // Class Utama
-public class tugas1_2407073 {
+public class KalkulatorBangunDatar {
 
     public static void main(String[] args) {
 
